@@ -1,5 +1,4 @@
 package M1;
-
 public class evennumwhile {
     public static void main(String[] args){
         int i=2;
